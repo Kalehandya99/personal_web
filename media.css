@@ -1,5 +1,5 @@
-@media screen and (min-width: 480px) and (max-width: 1280px) {
-
+@media screen and (min-width: 600px)(max-width: 100%)
+{
     /* CONTAINER1 */
     .container .box1 h1 {
         font-size: 25px;
@@ -12,7 +12,7 @@
     }
 
     .container .box1 h3 {
-        margin-left: -40px
+        margin-left: -40px;
     }
 
     .right-text h1 {
@@ -50,12 +50,12 @@
     .container2 hr {
         width: 300px;
         position: relative;
-        left: -210px
+        left: -210px;
     }
 
     /*   CONTAINER 3   */
     .image {
-        margin-left: 40px
+        margin-left: 40px;
     }
 
     /*   CONTAINER4   */
@@ -66,7 +66,7 @@
 
     .image3 {
         position: relative;
-        right: 35px
+        right: 35px;
     }
 
     /*   CONTAINER5   */
@@ -80,7 +80,7 @@
     }
     .lokasi{
         position: relative;
-        left: 25px
+        left: 25px;
     }
     .email{
         position: relative;
@@ -88,6 +88,6 @@
     }
     .copyright{
         position: relative;
-        right: 15px
+        right: 15px;
     }
 }
