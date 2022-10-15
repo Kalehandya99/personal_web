@@ -299,8 +299,11 @@ textarea:hover {
 
 
 /* MEDIA */
-@media screen and (max-width: 1280px)
+@media screen and (max-width: 720px)
 {
+    body{
+        width: 100%;
+    }
     /* CONTAINER1 */
     .container .box1 h1 {
         font-size: 25px;
