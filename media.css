@@ -1,4 +1,4 @@
-@media screen and (min-width: 600px)
+@media screen and (min-width: 480px)(max-width: 100%)
 {
     /* CONTAINER1 */
     .container .box1 h1 {
